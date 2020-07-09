@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
+            <option value="$PROJECT_DIR$/Problems/Are siblings" />
+            <option value="$PROJECT_DIR$/Problems/Basic calculator" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Problems/Create an euphonious word" />
+            <option value="$PROJECT_DIR$/Problems/Creating a map" />
+            <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Problems/Distance" />
+            <option value="$PROJECT_DIR$/Problems/Find X" />
+            <option value="$PROJECT_DIR$/Problems/Kidnapper of Ice cream" />
+            <option value="$PROJECT_DIR$/Problems/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Problems/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Problems/Removing elements" />
+            <option value="$PROJECT_DIR$/Problems/Squares list" />
+            <option value="$PROJECT_DIR$/Problems/String to double conversion" />
+            <option value="$PROJECT_DIR$/Problems/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Problems/War and Peace" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
